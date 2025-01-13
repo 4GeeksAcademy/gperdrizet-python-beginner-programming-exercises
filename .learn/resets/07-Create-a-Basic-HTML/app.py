@@ -9,6 +9,5 @@ h = '<body>'
 
 # ❌ ⬆ DON'T CHANGE THE CODE ABOVE ⬆ ❌
 
-html_document=e+c+g+a+f+h+d+b
-print(html_document)
+# ✅ ↓ start coding below here ↓ ✅
 
